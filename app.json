@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Entrelinhas Tech",
+    "slug": "entrelinhas-tech",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
